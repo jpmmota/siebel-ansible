@@ -23,7 +23,6 @@
        inventory_loc={{siebel_base_path}}/oracle_client/oraInventory
        inst_group=siebel
 
-
 - name: template oracle_client response file
   template: 
     src: "roles/oracle-client/files/oracle-client-{{oracle_client_version}}.rsp.j2"
