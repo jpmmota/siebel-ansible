@@ -6,7 +6,7 @@ A One-Click Siebel-Admin solution.
 
 **Installation**
 
-* git clone https://github.com/henkwiedig/ansible-siebel
+* git clone https://github.com/jpmmota/siebel-ansible.git
 * cd ansible-siebel
 * cp roles/software-repository/tasks/mos-credentials-example.yml roles/software-repository/tasks/mos-credentials.yml
 * Edit roles/software-repository/tasks/mos-credentials.yml
