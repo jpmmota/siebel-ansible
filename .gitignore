@@ -4,3 +4,4 @@ inventory/production
 inventory/test
 *.retry
 roles/software-repository/tasks/mos-credentials.yml
+files/
